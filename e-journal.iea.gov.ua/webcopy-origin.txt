@@ -1,0 +1,100 @@
+Uri: https://e-journal.iea.gov.ua/
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\index.htm
+Content Type: text/html
+
+Uri: https://e-journal.iea.gov.ua/account/forgot-password
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\account\forgot-password.html
+Content Type: text/html
+
+Uri: https://e-journal.iea.gov.ua/assets/11a81f2c/yii.js
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\assets\11a81f2c\yii.js
+Content Type: application/javascript
+
+Uri: https://e-journal.iea.gov.ua/assets/6fd959af/jquery.js
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\assets\6fd959af\jquery.js
+Content Type: application/javascript
+
+Uri: https://e-journal.iea.gov.ua/assets/84322bee/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\assets\84322bee\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://e-journal.iea.gov.ua/css/modules/menu.css?v=2
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\css\modules\menu.css
+Content Type: text/css
+
+Uri: https://e-journal.iea.gov.ua/css/nz.css?v=1
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\css\nz.css
+Content Type: text/css
+
+Uri: https://e-journal.iea.gov.ua/css/site.css?v=22
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\css\site.css
+Content Type: text/css
+
+Uri: https://e-journal.iea.gov.ua/images/icons/api.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\api.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/icons/jornal.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\jornal.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/icons/login.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\login.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/icons/rozklad.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\rozklad.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/icons/security.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\security.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/icons/statistic.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\statistic.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/icons/vector.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\icons\vector.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/static/about_project_image.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\static\about_project_image.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/images/static/logo.png
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\images\static\logo.png
+Content Type: image/png
+
+Uri: https://e-journal.iea.gov.ua/js/forms.js?v=3
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\js\forms.js
+Content Type: application/javascript
+
+Uri: https://e-journal.iea.gov.ua/js/global.js
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\js\global.js
+Content Type: application/javascript
+
+Uri: https://e-journal.iea.gov.ua/js/main.js?v=6
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\js\main.js
+Content Type: application/javascript
+
+Uri: https://e-journal.iea.gov.ua/support/connect
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\support\connect.html
+Content Type: text/html
+
+Uri: https://e-journal.iea.gov.ua/support/instructions
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\support\instructions.html
+Content Type: text/html
+
+Uri: https://e-journal.iea.gov.ua/support/video-instructions
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\support\video-instructions.html
+Content Type: text/html
+
+Uri: https://mon.gov.ua/storage/app/uploads/public/5f5/083/b49/5f5083b492f90273019122.pdf
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\storage\app\uploads\public\5f5\083\b49\5f5083b492f90273019122.pdf
+Content Type: application/pdf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-152957941-1
+File Name: C:\Downloaded Web Sites\e-journal.iea.gov.ua\gtag\js
+Content Type: application/javascript
+

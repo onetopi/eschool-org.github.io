@@ -1,0 +1,76 @@
+.container {
+    position: relative;
+    /*text-align: center;*/
+}
+.main-menu {
+    padding: 0 20px;
+    /*width: 1120px;*/
+    width: 920px;
+}
+.main-menu h1{
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.nz-projects-menu-form {
+    width: 760px;
+    margin: 0;
+    padding: 0;
+}
+.nz-projects-menu-form * {
+    box-sizing: border-box;
+}
+.row label {
+    display: inline;
+}
+.delete-img-wrapper > * {
+  vertical-align: middle;
+}
+.menu-default-index {
+    width: 930px;
+    /*width: 1200px;*/
+}
+.centered {
+    font-size: 1.5em;
+    color: #000;
+    background: rgba(255, 90, 70, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+}
+.sortable {
+    background-color: #fff; 
+}
+.grid {
+    background: #fff;
+    max-width: 1200px;
+}
+
+/* clearfix */
+.grid:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* ---- grid-item ---- */
+.grid-item {
+    float: left;
+    margin: 10px;
+}
+
+/* icon-link */
+a.icon-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s;
+}
+a.icon-link:hover {
+    opacity: 0.7;
+    /*background-image: none !important;*/
+    color: white;
+}
